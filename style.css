@@ -1,0 +1,79 @@
+/* 
+navigation */
+
+body {
+    height: 200vh;
+}
+
+
+/*  */
+
+a.sidenav-trigger i {
+    font-size: 2rem;
+}
+
+nav #nav-mobile li,
+#slide-out li {
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+
+/* slider */
+
+.slider {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.slider img {
+    position: ;
+}
+
+.caption {
+    position: absolute;
+    top: 50%;
+}
+
+
+/* search */
+
+#search {
+    margin: 0;
+    padding-top: 20px;
+}
+
+.label h3 {
+    margin-top: 0;
+    text-transform: capitalize;
+}
+
+.input-field {
+    padding: 20px;
+}
+
+
+/* cards */
+
+@media (max-width:600px) {
+    .card {
+        max-width: 70%;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+}
+
+.card-image i {
+    font-size: 80px;
+    color: teal;
+}
+
+
+/* places */
+
+.card-image img {
+    width: 100%;
+    height: 30vh;
+}
+
+{}
